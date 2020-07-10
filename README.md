@@ -4,6 +4,6 @@ I [make stuff](https://github.com/cwardzala) on the internet, sometimes I [write
 
 I can also be found on:
 
-[Micro.blog](https://micro.camwardzala.com/)
-[Twitter](https://twitter.com/camwardzala)
-[LinkedIn](https://www.linkedin.com/in/cameronwardzala/)
+- [Micro.blog](https://micro.camwardzala.com/)
+- [Twitter](https://twitter.com/camwardzala)
+- [LinkedIn](https://www.linkedin.com/in/cameronwardzala/)
