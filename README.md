@@ -2,7 +2,7 @@
 
 Hi, I'm Cam!
 
-I [make stuff](https://github.com/cwardzala) on the internet, sometimes I [write stuff](https://dev.to/cwardzala).
+I [make stuff](https://github.com/cwardzala) on the internet, sometimes I [write stuff](https://camwardzala.com).
 I can also be found on:
 
 - [Mastodon](https://mastodon.social/@cwardzala)
